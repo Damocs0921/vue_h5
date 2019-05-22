@@ -1,0 +1,9 @@
+1.nginx 在docker上 test-web和test ~/nginx/ 8082访问
+Todo:https的设置
+
+2.按需keepalive https://juejin.im/post/5cdcbae9e51d454759351d84
+
+3.当URL的片段标识符更改时，将触发hashchange事件 (跟在＃符号后面的URL部分，包括＃符号)
+	路由监听刷新页面
+
+4.iview库看起来不错的样子...
